@@ -404,6 +404,11 @@
   resolved "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
+"@types/ityped@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@types/ityped/-/ityped-1.0.1.tgz#0599e2ed8f46c631abe31decd6d70e865afa003a"
+  integrity sha512-7K9uPwFcvYeqvA7IBCSC4YE1nkkubyyx2IhFnZp4P62OCX2zg07qMn04QVdbhGwfiIzJx+UFFLsjunRdim1/Tw==
+
 "@types/minimist@^1.2.0":
   version "1.2.2"
   resolved "https://registry.npmjs.org/@types/minimist/-/minimist-1.2.2.tgz"
